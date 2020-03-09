@@ -1,0 +1,16 @@
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\jwt_demo2.deps.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\jwt_demo2.runtimeconfig.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\jwt_demo2.runtimeconfig.dev.json
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\jwt_demo2.dll
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.csprojAssemblyReference.cache
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.RazorAssemblyInfo.cache
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.RazorAssemblyInfo.cs
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.AssemblyInfoInputs.cache
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.AssemblyInfo.cs
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.RazorTargetAssemblyInfo.cache
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\bin\Debug\netcoreapp2.1\jwt_demo2.pdb
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.dll
+C:\Users\fanche\git\jwt_demo2\jwt_demo2\obj\Debug\netcoreapp2.1\jwt_demo2.pdb
